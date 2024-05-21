@@ -1,5 +1,10 @@
 ## Screenshots
 
+![pass1](https://github.com/911abhishek/Password-Generator/assets/138745734/f658f967-cfd8-40c0-ad11-f008411ba376)
+
+![pass2](https://github.com/911abhishek/Password-Generator/assets/138745734/43c6d844-e969-49c2-aa17-83bc97df67a5)
+
+![pass 3](https://github.com/911abhishek/Password-Generator/assets/138745734/0930b637-caa5-4ada-88d4-26a1c85cdcb5)
 
 
 ---
